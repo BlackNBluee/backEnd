@@ -1,0 +1,4 @@
+install npm using "npm init -y"
+and dependencies like dotenv, nodemon, mongoose, express, etc.
+in config file -> scripts ->add this -> "dev":"nodemon index.js" 
+run code using "npm run dev"
